@@ -8,8 +8,8 @@
 | النص الحالي | استبدله بـ |
 |-------------|------------|
 | `https://your-app-name.streamlit.app` | رابط تطبيقك الحقيقي (`https://eissaal-y-ai.streamlit.app`) |
-| `yourusername/your-repo-name` | اسم المستخدم والمستودع الخاص بك (`Eissa07/ai-chatbot`) |
-| `عيسى]` في نهاية الملف | اسمك الحقيقي أو المعرف الذي تريده |
+| `yourusername/your-repo-name` | اسم المستخدم والمستودع الخاص بك (`[Eissa07/ai-chatbot](https://github.com/eissaaly07070-rgb/ai-chatbot/blob/main/README.md)`) |
+| `عيسى` في نهاية الملف | اسمك الحقيقي أو المعرف الذي تريده |
 
 ---
 
